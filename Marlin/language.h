@@ -30,7 +30,7 @@
 	#define MACHINE_NAME "Printrbot"
 #endif
 
-#define FIRMWARE_URL "https://github.com/Printrbot/Marlin/"
+#define FIRMWARE_URL "https://github.com/jbillhei/Marlin/"
 
 #define STRINGIFY_(n) #n
 #define STRINGIFY(n) STRINGIFY_(n)
